@@ -1,1 +1,1 @@
-FROM gitlab/gitlab-ce:latest
+FROM  jenkins/jenkins:2.400
