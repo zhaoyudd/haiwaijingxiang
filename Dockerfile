@@ -1,1 +1,1 @@
-FROM  jenkins/jenkins:2.387.1
+FROM  openjdk:8
