@@ -1,1 +1,1 @@
-FROM  openjdk:8
+FROM  sonarqube:8.9.3-community
